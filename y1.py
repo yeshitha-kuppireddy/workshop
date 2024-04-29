@@ -1,1 +1,1 @@
-prit("urtkutbnj")
+print("urtkutbnj")
